@@ -16,6 +16,7 @@ Este projeto é um sistema de análise de dados para o case Infomaz, desenvolvid
   - Ranking de clientes, fornecedores e produtos
   - Média de vendas por categoria/mês
   - Produtos comprados por cliente
+  - Relatórios de rentabilidade com sugestões de otimização para maximizar lucros
   - E outros
 
 ## Como executar
@@ -52,15 +53,17 @@ Este projeto é um sistema de análise de dados para o case Infomaz, desenvolvid
 ## Estrutura do Projeto
 
 ```
-CDPeers-Group-Case-Digital-main/
+geo_informaz_analysis/
 │
 ├── main.py
 ├── requirements.txt
+├── .gitignore
 ├── data/
 │   └── Case_Infomaz_Base_de_Dados.xlsx
 ├── src/
 │   ├── load_data.py
-│   └── calculos.py
+│   ├── metriccalc.py
+│   └── __init__.py
 └── README.md
 ```
 
