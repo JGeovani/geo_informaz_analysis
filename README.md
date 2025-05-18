@@ -2,6 +2,11 @@
 
 Este projeto é um sistema de análise de dados para o case Infomaz, desenvolvido em Python utilizando **Streamlit** para interface web. Ele permite visualizar dados de diferentes cadastros e gerar relatórios e cálculos analíticos de forma simples e interativa pelo navegador.
 
+## Acesse a aplicação online
+
+Acesse a análise diretamente em:  
+👉 **[https://informaz.streamlit.app/](https://informaz.streamlit.app/)**
+
 ## Funcionalidades
 
 - Visualização de dados das abas:
@@ -19,7 +24,7 @@ Este projeto é um sistema de análise de dados para o case Infomaz, desenvolvid
   - Relatórios de rentabilidade com sugestões de otimização para maximizar lucros
   - E outros
 
-## Como executar
+## Como executar localmente
 
 1. **Clone o repositório:**
    ```bash
