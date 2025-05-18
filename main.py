@@ -164,9 +164,9 @@ elif menu == "Relatórios de Rentabilidade":
         **Estratégias para Maximizar Lucros:**
 
         - **Acompanhe tendências de demanda:** Monitore periodicamente as vendas de cada categoria e produto, identificando rapidamente variações no comportamento de compra dos clientes.
-        - **Produtos de maior rentabilidade:** Foque em <span style="color:#0056b3"><b>{highest_product}</b></span>, investindo em divulgação, estoque e negociações especiais para ampliar ainda mais sua margem.
+        - **Produtos de maior rentabilidade:** Foque em <span style="color:#FFFF00"><b>{highest_product}</b></span>, investindo em divulgação, estoque e negociações especiais para ampliar ainda mais sua margem.
         - **Produtos de menor rentabilidade:** Reavalie <span style="color:#b30000"><b>{lowest_product}</b></span>, analisando se ajustes de preço, renegociação com fornecedores ou até descontinuação podem ser necessários.
-        - **Categorias de maior rentabilidade:** Invista em <span style="color:#0056b3"><b>{highest_category}</b></span>, priorizando compras e promoções para manter o bom desempenho.
+        - **Categorias de maior rentabilidade:** Invista em <span style="color:#FFFF00"><b>{highest_category}</b></span>, priorizando compras e promoções para manter o bom desempenho.
         - **Categorias de menor rentabilidade:** Analise estratégias para <span style="color:#b30000"><b>{lowest_category}</b></span>, como renegociação de custos, revisão de preços ou campanhas para aumentar o giro.
         - **Otimize o estoque:** Reduza estoques de itens com baixa margem e baixo giro, liberando capital para investir em produtos de maior rentabilidade e demanda crescente.
         - **Negocie com fornecedores:** Busque melhores condições para produtos estratégicos e de baixa margem, fortalecendo parcerias e reduzindo custos.
