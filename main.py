@@ -140,7 +140,6 @@ elif menu == "Cálculos de Métricas":
 elif menu == "Relatórios de Rentabilidade":
     st.header("Relatório de Análise de Rentabilidade de Produtos e Categorias")
 
-    # Não há necessidade de selectbox, pois só há uma opção
     report_result = q0_profitability_analysis(data)
 
     # Exibe os resultados de forma organizada
